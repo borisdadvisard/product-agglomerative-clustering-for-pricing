@@ -21,7 +21,8 @@ Machine Learning techniques:
 Batch Inference Results:
 After training, around 200k products have been grouped into a few thousand groups based on their similarity regarding sales patterns. Each black mark represents an SKU, and the coloured segments represent the hierarchical groupings obtained by the ML algorithm based on the distance metrics in the vector space.
 
-![Image sans titre](https://github.com/user-attachments/assets/a1211b0f-8ce3-483d-b543-35bc51f81318)
+![Product Clusters](https://github.com/user-attachments/assets/1e324d9f-7c26-4d19-9c1d-cc8fdf40f40a)
+
 
 Legend: X axis: Product_Id, Y axis: Distance metric 
 
